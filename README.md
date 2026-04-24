@@ -77,7 +77,7 @@ If you face any issues or have questions about ONLYOFFICE Desktop Editors, pleas
 
 You are also welcome to ask and answer ONLYOFFICE development questions on [Stack Overflow][3], as well as share your thoughts and suggestions on [feedback.onlyoffice.com](https://feedback.onlyoffice.com/forums/966080-your-voice-matters).
 
-Join [our Discord community](https://discord.gg/Hcgtf5n4uF) for connecting with fellow developers.
+Join [our Discord community] (https://discord.gg/Hcgtf5n4uF) for connecting with fellow developers.
 
   [1]: https://forum.onlyoffice.com
   [2]: https://github.com/ONLYOFFICE/DocumentServer

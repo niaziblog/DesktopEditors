@@ -1,7 +1,7 @@
 [![License] (https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html) 
 ![Platforms Windows | macOS | Linux](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg?style=flat) [![Release](https://img.shields.io/github/v/tag/ONLYOFFICE/DesktopEditors?sort=semver&style=flat&label=Release&color=blue)](https://github.com/ONLYOFFICE/DesktopEditors/tags) 
 
-## Welcome to the ONLYOFFICE Desktop Editors repo! 
+## Welcome to the ONLYOFFICE Desktop Editors repo!  
 
 [ONLYOFFICE Desktop Editors](https://www.onlyoffice.com/desktop.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktop) is a free office suite that combines text, spreadsheet, presentation, and PDF editors & Diagram Viewer. The application allows creating, viewing and editing documents stored on your Windows/Linux PC or Mac without an Internet connection. It is fully compatible with Office Open XML formats: .docx, .xlsx, .pptx.
 
